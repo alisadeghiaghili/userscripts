@@ -7,6 +7,7 @@ My collection of Tampermonkey / Greasemonkey userscripts for browser automation 
 | Script | Description | Version |
 |---|---|---|
 | [coursera-video-downloader](./coursera-video-downloader/) | Download Coursera lecture videos + subtitles into organized folders | v3.0 |
+| [github-profile-refresher](./github-profile-refresher/) | Auto-refresh GitHub profile page with Start / Pause / Stop controls and configurable count | v2.0 |
 
 ## Structure
 
